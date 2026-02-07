@@ -1,7 +1,7 @@
 # MFA-Forced-Alignment
 Forced speech alignment analysis using Praat with phoneme-level validation and timing metrics.
 
-# Forced Alignment Assignment — MFA + Praat
+# Forced Alignment Assignment - MFA + Praat
 
 ## Objective
 Perform speech forced alignment using Montreal Forced Aligner and analyze segmentation accuracy using Praat.
